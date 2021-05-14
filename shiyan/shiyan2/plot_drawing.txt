@@ -1,0 +1,19 @@
+实验任务2：阻尼衰减曲线绘制
+任务描述：
+绘制阻尼衰减曲线图
+ 
+任务背景
+matplotlib.pyplot下的annotate函数可以添加注释，具体用法自己上网查阅 
+图示标题为中文，设置中文字体的方法：
+matplotlib.rcParams['font.family']='SimHei'
+matplotlib.rcParams['font.sans-serif'] = ['SimHei']
+任务要求
+1.	绘图包含标题、坐标轴包含名称、图例、箭头注释、阴影区域、阴影内文字
+2.	两个信号用不同颜色、粗细、线型表示
+3.	完成实验报告。
+
+
+目标
+1.	掌握matplotlib模块
+2.	掌握numpy模块
+
